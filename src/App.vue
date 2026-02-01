@@ -36,7 +36,7 @@ const currentNoteIndex = ref(0);
 
 // --- User Settings ---
 const userEmail = ref("philipnicholas386@gmail.com");
-const userPhoneNumber = ref("0593870678");
+const userPhoneNumber = ref("233593870678");
 
 // --- Media Sources ---
 const videoSource = ref(
