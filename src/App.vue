@@ -608,7 +608,7 @@ onUnmounted(() => {
                   @click="sendWhatsApp"
                   :disabled="!customMessage"
                 >
-                  <span class="btn-icon">�</span>
+                  <span class="btn-icon">💌</span>
                   Send My Note
                 </button>
               </div>
